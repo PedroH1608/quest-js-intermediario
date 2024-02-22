@@ -1,0 +1,101 @@
+@media (max-height: 900px) {
+
+    .welcome {
+        width: 600px;
+    }
+
+    .formulario {
+        width: 760px;
+        height: 840px;
+    }
+
+    .input {
+        font-size: 25px;
+        height: 60px;
+    }
+
+    .mensagem {
+        height: 220px;
+    }
+
+    button {
+        padding: 20px 0 20px 0;
+        border-radius: 6px;
+    }
+}
+
+@media (max-height: 840px) {
+
+    .welcome {
+        width: 504px;
+        height: 230px;
+    }
+
+    .formulario {
+        width: 600px;
+        height: 680px;
+    }
+
+    .input {
+        height: 60px;
+    }
+
+    .mensagem {
+        height: 150px;
+    }
+
+    button {
+        font-size: 25px;
+        padding: 20px 0 20px 0;
+        border-radius: 6px;
+    }
+}
+
+@media (max-height: 680px) {
+
+    body {
+        padding: 12px 50px 12px 50px;
+        background-size: 35px;
+    }
+
+    .welcome {
+        width: 300px;
+        height: 111px;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    p,
+    span {
+        font-size: 15px;
+    }
+
+    .formulario {
+        width: 340px;
+        height: 380px;
+        padding: 20px;
+    }
+
+    .input {
+        font-size: 15px;
+        padding: 10px;
+        border-width: 1px;
+        height: 35px;
+    }
+
+    .mensagem {
+        height: 100px;
+    }
+
+    .campo-obrigatorio {
+        font-size: 8px;
+    }
+
+    button {
+        font-size: 15px;
+        padding: 12px 0 12px 0;
+        border-radius: 5px;
+    }
+}
